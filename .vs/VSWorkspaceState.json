@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Website",
+    "\\Website\\portfolio",
+    "\\Website\\portfolio\\app",
+    "\\Website\\portfolio\\components",
+    "\\Website\\portfolio\\context",
+    "\\Website\\portfolio\\hooks",
+    "\\Website\\portfolio\\public"
+  ],
+  "SelectedNode": "\\Website\\portfolio\\app\\page.tsx",
+  "PreviewInSolutionExplorer": false
+}
